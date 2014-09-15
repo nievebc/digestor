@@ -7,17 +7,15 @@ import scala.collection.JavaConversions._
 
 object DigestorMessages {
   case class Start(file: String)
-  case class NextRow(row: Row)
+  case class NextRow(row: Map[String, String])
   case object Done
 }
 
 class RowTransformer extends Actor with ActorLogging {
-
   def receive = {
     case DigestorMessages.NextRow(row) => {
-      val cells = row.cellIterator
-      cells.zipWithIndex.foreach{ case(cell, ix) => println(cell.toString + "-" + ix)}
-      if (row.getRowNum == row.getSheet.getLastRowNum) sender ! DigestorMessages.Done
+      if (row.contains("eof")) sender ! DigestorMessages.Done
+      else row.foreach{case (col, value) => println(col + "-" + value)}
     }
   }
 }

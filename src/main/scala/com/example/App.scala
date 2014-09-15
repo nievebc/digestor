@@ -1,15 +1,13 @@
 package com.example
 
 import akka.actor.{ ActorRef, ActorSystem, Props, Actor, Inbox }
-import com.example.actors.{Dispatcher, DigestorMessages}
+import com.example.actors.{RowsRouter, DigestorMessages}
 
 case object Start
 class Supervisor extends Actor {
   override def preStart(): Unit = {
-    // create the greeter actor
-    val dispatcher = context.actorOf(Props[Dispatcher], "dispatcher")
-    // tell it to perform the greeting
-    dispatcher ! DigestorMessages.Start
+    val dispatcher = context.actorOf(Props[RowsRouter], "dispatcher")
+    dispatcher ! DigestorMessages.Start("worksheet.xls")
   }
 
   def receive = {
@@ -36,10 +34,6 @@ class Supervisor extends Actor {
 object MainApp {
 
   def main(args: Array[String]): Unit = {
-    // val system = ActorSystem("digestor")
-
-    // val dispatcher = system.actorOf(Props[Dispatcher], "dispatcher")
-    // dispatcher ! DigestorMessages.Start("worksheet.xls")
     val initialActor = classOf[Supervisor].getName
 
     akka.Main.main(Array(initialActor))
