@@ -1,17 +1,17 @@
 package com.example
 
-import akka.actor.{ ActorRef, ActorSystem, Props, Actor, Inbox }
-import com.example.actors.{RowsRouter, DigestorMessages}
+import akka.actor.{ ActorRef, ActorSystem, Props, Actor, Inbox, DeadLetter }
+import com.example.actors.{RowsRouter, Messages}
 
 case object Start
 class Supervisor extends Actor {
   override def preStart(): Unit = {
     val dispatcher = context.actorOf(Props[RowsRouter], "dispatcher")
-    dispatcher ! DigestorMessages.Start("worksheet.xls")
+    dispatcher ! Messages.Start("worksheet.xls")
   }
 
   def receive = {
-    case DigestorMessages.Done => 
+    case Messages.Done => 
       println("terminating Supervisor")
       context stop self
   }

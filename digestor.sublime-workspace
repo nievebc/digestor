@@ -4,12 +4,32 @@
 		"selected_items":
 		[
 			[
-				"Di",
-				"DigestorMessages"
+				"D",
+				"DeadLetter"
 			],
 			[
 				"ro",
+				"rowsCount"
+			],
+			[
+				"ex",
+				"example"
+			],
+			[
+				"imp",
+				"import"
+			],
+			[
+				"row",
 				"rows"
+			],
+			[
+				"_",
+				"_rowsCount"
+			],
+			[
+				"Di",
+				"DigestorMessages"
 			],
 			[
 				"cla",
@@ -23,15 +43,24 @@
 			"file": "src/main/scala/com/example/App.scala",
 			"settings":
 			{
-				"buffer_size": 1436,
+				"buffer_size": 1193,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application.conf",
+			"settings":
+			{
+				"buffer_size": 73,
+				"line_ending": "Unix",
+				"name": "akka {"
 			}
 		},
 		{
 			"file": "src/main/scala/com/example/actors/DigestorActor.scala",
 			"settings":
 			{
-				"buffer_size": 891,
+				"buffer_size": 948,
 				"line_ending": "Unix"
 			}
 		},
@@ -39,7 +68,24 @@
 			"file": "src/main/scala/com/example/actors/RowTransformer.scala",
 			"settings":
 			{
-				"buffer_size": 612,
+				"buffer_size": 510,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Effective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Free Delivery\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-FREE\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/free-delivery?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Sony PS Vita Console Wi-Fi\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-18.99\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/sony-ps-vita-console-wi-fi?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Sony PS3 500GB HDD\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-17.99\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/sony-ps3-500gb-hdd?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Apple iPod Nano 16GB Silver\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-FREE\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/apple-ipod-nano-16gb-silver?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Apple iPod Touch 32GB White\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-25.99\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/apple-ipod-touch-32gb-white?source=phg\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Apple iPod Shuffle 2GB Silver\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-FREE\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/apple-ipod-shuffle-2gb-silver?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Sony PS3 12GB Flash\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-FREE\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/sony-ps3-12gb-flash?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Apple iPod Classic 160GB Black\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-FREE\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/apple-ipod-classic-160gb-black?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Samsung Galaxy Tab3 7.0 8GB Wifi\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-FREE\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/samsung-galaxy-tab3-7-0-8gb-wifi?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Nintendo 3DS XL Silver/Black\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-FREE\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/nintendo-3ds-xl-silver-black?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Google Nexus 7\\ 16GB\"\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-FREE\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/google-nexus-7-16gb?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Kindle Fire HD 7\\ 16GB Wifi\"\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-FREE\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/kindle-fire-hd-7-16gb-wifi?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Microsoft Xbox ONE \nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-191.99\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/microsoft-xbox-one?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Samsung Galaxy Tab3 10.1 16GB Wifi\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-65.99\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/samsung-galaxy-tab3-10-1-16gb-wifi?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Bose SoundDock III Dig Music System\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-FREE\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/bose-sounddock-iii-dig-music-system?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Beats Tour 2.0 In-Ear Black\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-FREE\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/beats-tour-2-0-in-ear-black?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Beats by Dr. Dre Pill Speaker Black\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-FREE\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/beats-by-dr-dre-pill-speaker-black?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nEffective Line Rental-26.50\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Microsoft Xbox 4GB Kinect Bundle\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-47.99\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/microsoft-xbox-4gb-kinect-bundle?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Go Pro Hero3+ Silver Edition\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-48.99\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/go-pro-hero3-silver-edition?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Microsoft Xbox ONE + Titanfall Bundle\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-211.99\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/microsoft-xbox-one-titanfall-bundle?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Samsung UE32H4000 32\\  LED TV\"\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-60.99\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/samsung-ue32h4000-32-led-tv?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Samsung PE43H4500 43\\ Plasma TV\"\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-143.99\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/samsung-pe43h4500-43-plasma-tv?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Sony 40\\ KDL40R483B TV\"\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nROW COUNT: ===================== 34\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Apple iPod Touch 64GB White\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-101.99\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/apple-ipod-touch-64gb-white?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nEffective Line Rental-30.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-250Mb\nCashback Amount-\nInclusive Minutes-300\nGift Title-Apple iPod Nano 16GB Space Grey\nNetwork-Vodafone\nTariff Name-Vodafone £30.50 300\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-FREE\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-30-50-300-24/apple-ipod-nano-16gb-space-grey?source=phg\nInclusive Texts-Unlimited\nLine Rental-30.50\nHandset Brand-Samsung\nEffective Line Rental-30.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-250Mb\nCashback Amount-\nInclusive Minutes-300\nGift Title-Apple iPod Touch 32GB Space Grey\nNetwork-Vodafone\nTariff Name-Vodafone £30.50 300\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-FREE\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-30-50-300-24/apple-ipod-touch-32gb-space-grey?source=phg\nInclusive Texts-Unlimited\nLine Rental-30.50\nHandset Brand-Samsung\nEffective Line Rental-30.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-250Mb\nCashback Amount-\nInclusive Minutes-300\nGift Title-Apple iPod Touch 64GB Space Grey\nNetwork-Vodafone\nTariff Name-Vodafone £30.50 300\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-37.99\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-30-50-300-24/apple-ipod-touch-64gb-space-grey?source=phg\nInclusive Texts-Unlimited\nLine Rental-30.50\nHandset Brand-Samsung\nEffective Line Rental-30.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-250Mb\nCashback Amount-\nInclusive Minutes-300\nGift Title-Beats by Dr. Dre SoloHD White\nNetwork-Vodafone\nTariff Name-Vodafone £30.50 300\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-FREE\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-30-50-300-24/beats-by-dr-dre-solohd-white?source=phg\nInclusive Texts-Unlimited\nLine Rental-30.50\nHandset Brand-Samsung\nEffective Line Rental-30.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-250Mb\nCashback Amount-\nInclusive Minutes-300\nGift Title-Beats by Dr. Dre SoloHD Black\nNetwork-Vodafone\nTariff Name-Vodafone £30.50 300\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-FREE\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-30-50-300-24/beats-by-dr-dre-solohd-black?source=phg\nInclusive Texts-Unlimited\nLine Rental-30.50\nHandset Brand-Samsung\nEffective Line Rental-30.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Microsoft Xbox 360 4GB New\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-FREE\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/microsoft-xbox-360-4gb-new?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Samsung Galaxy Note 10.1 16GB Wifi\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-134.99\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/samsung-galaxy-note-10-1-16gb-wifi?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Samsung Galaxy Note 8.0 16GB Wifi\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-85.99\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/samsung-galaxy-note-8-0-16gb-wifi?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-250Mb\nCashback Amount-\nInclusive Minutes-300\nGift Title-Kindle Fire HD 7\\ 8GB Wifi\"\nNetwork-Vodafone\nTariff Name-Vodafone £30.50 300\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-FREE\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-30-50-300-24/kindle-fire-hd-7-8gb-wifi?source=phg\nInclusive Texts-Unlimited\nLine Rental-30.50\nHandset Brand-Samsung\nEffective Line Rental-26.50\nHandset Image-http://cdn.smartphonecompany.co.uk/images/handsets/480/samsung/samsung-galaxy-s4-mini-black.png\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nGift Title-Sony PS4 500GB\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-141.99\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/sony-ps4-500gb?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nContract Length-24\nHandset Colour-Black\nInclusive Data-100Mb\nCashback Amount-\nInclusive Minutes-100\nHandset Title-Samsung Galaxy S4 Mini\nROW COUNT: ===================== 33\nROW COUNT: ===================== 32\nROW COUNT: ===================== 31\nROW COUNT: ===================== 30\nROW COUNT: ===================== 29\nROW COUNT: ===================== 28\nROW COUNT: ===================== 27\nROW COUNT: ===================== 26\nROW COUNT: ===================== 25\nROW COUNT: ===================== 24\nROW COUNT: ===================== 23\nROW COUNT: ===================== 22\nROW COUNT: ===================== 21\nROW COUNT: ===================== 20\nROW COUNT: ===================== 19\nROW COUNT: ===================== 18\nROW COUNT: ===================== 17\nROW COUNT: ===================== 16\nROW COUNT: ===================== 15\nROW COUNT: ===================== 14\nROW COUNT: ===================== 13\nROW COUNT: ===================== 12\nROW COUNT: ===================== 11\nROW COUNT: ===================== 10\nROW COUNT: ===================== 9\nROW COUNT: ===================== 8\nROW COUNT: ===================== 7\nROW COUNT: ===================== 6\nROW COUNT: ===================== 5\nROW COUNT: ===================== 4\nROW COUNT: ===================== 3\nROW COUNT: ===================== 2\nDeal Price-199.99\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/sony-40-kdl40r483b-tv?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nROW COUNT: ===================== 1\nGift Title-Beats Tour 2.0 In-Ear White\nNetwork-Vodafone\nTariff Name-Vodafone £26.50 100\nHandset Title-Samsung Galaxy S4 Mini\nDeal Price-FREE\nTariff Type-contract\nPurchase URL-http://www2.mobilephonesdirect.co.uk/basket/add/contract/samsung-galaxy-s4-mini-black/vodafone-26-50-100-24/beats-tour-2-0-in-ear-white?source=phg\nInclusive Texts-Unlimited\nLine Rental-26.50\nHandset Brand-Samsung\nROW COUNT: ===================== 0\nterminating Supervisor",
+			"settings":
+			{
+				"buffer_size": 23237,
+				"line_ending": "Unix",
+				"name": "Effective Line Rental-26.50"
+			}
+		},
+		{
+			"file": "mpd1.csv",
+			"settings":
+			{
+				"buffer_size": 14999,
 				"line_ending": "Unix"
 			}
 		}
@@ -71,6 +117,7 @@
 	},
 	"file_history":
 	[
+		"/home/adminuser/Projects/digestor/build.sbt",
 		"/home/adminuser/Projects/hello-akka/src/main/scala/HelloAkkaScala.scala",
 		"/home/adminuser/Projects/digestor/src/main/scala/com/example/actors/GreeterActor.scala",
 		"/home/adminuser/Projects/xl/write_xl.scala",
@@ -97,6 +144,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"ROW COUNT",
+			"DEAD",
+			"system",
+			"AFTER",
+			"BEFORE",
+			"_rowsCount",
+			"DigestorMessages",
 			"SmallestMailboxRouter",
 			"smallestMailboxRouter",
 			"GreeterMessages",
@@ -123,7 +177,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -132,15 +186,74 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1436,
+						"buffer_size": 1193,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								388,
-								388
+								1146,
+								1146
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Scala/Scala.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 51.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application.conf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 73,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"auto_name": "akka {",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/main/scala/com/example/actors/DigestorActor.scala",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 948,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								441,
+								441
 							]
 						],
 						"settings":
@@ -157,20 +270,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "src/main/scala/com/example/actors/DigestorActor.scala",
+					"buffer": 3,
+					"file": "src/main/scala/com/example/actors/RowTransformer.scala",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 891,
+						"buffer_size": 510,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								890,
-								890
+								458,
+								458
 							]
 						],
 						"settings":
@@ -180,40 +293,68 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 192.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "src/main/scala/com/example/actors/RowTransformer.scala",
+					"buffer": 4,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 612,
+						"buffer_size": 23237,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								579,
-								579
+								23189,
+								23189
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Scala/Scala.tmLanguage",
-							"tab_size": 2,
+							"auto_name": "Effective Line Rental-26.50",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 31.0,
-						"translation.y": 0.0,
+						"translation.x": 0.0,
+						"translation.y": 10792.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "mpd1.csv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14999,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14994,
+								14994
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2252.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
 					"type": "text"
 				}
 			]

@@ -5,7 +5,7 @@ import akka.actor.ActorLogging
 import org.apache.poi.ss.usermodel._
 import scala.collection.JavaConversions._
 
-object DigestorMessages {
+object Messages {
   case class Start(file: String)
   case class NextRow(row: Map[String, String])
   case object Done
@@ -13,9 +13,9 @@ object DigestorMessages {
 
 class RowTransformer extends Actor with ActorLogging {
   def receive = {
-    case DigestorMessages.NextRow(row) => {
-      if (row.contains("eof")) sender ! DigestorMessages.Done
-      else row.foreach{case (col, value) => println(col + "-" + value)}
+    case Messages.NextRow(row) => {
+      row.foreach{case (col, value) => println(col + "-" + value)} //parallel
+      sender ! Messages.Done
     }
   }
 }
